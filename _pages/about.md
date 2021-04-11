@@ -15,7 +15,7 @@ I study the interaction between negative affect and social functioning using MRI
 When not doing research, you can probably find me at the park with my dog, [Mr. Beau](https://kmo5128.github.io/images/mrbeau.png), or searching for the perfect slice of pizza.
 
 
-* [Laboratory on Social & Affective Neuroscience](https://aamarsh.wordpress.com/lab/)
+* [Laboratory on Social and Affective Neuroscience](https://aamarsh.wordpress.com/lab/)
 * [Cognition and Emotion after Stroke Project](https://cbpr.georgetown.edu/researchlabs/cognition-and-emotion/)
 * [Translational Biomedical Science TL1 Scholar](https://www.translationalbiomedicalscience.org/scholars)
 * F31 Research Trainee [NIH/NCCIH](https://www.nccih.nih.gov)
