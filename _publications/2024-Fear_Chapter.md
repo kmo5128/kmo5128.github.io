@@ -1,5 +1,6 @@
 ---
 title: "Fear: An evolutionary perspective on its biological, behavioral, and communicative features"
+collection: publications
 date: 2024-05-22
 venue: 'The Oxford Handbook of Evolution and the Emotions'
 link: 'https://doi.org/10.1093/oxfordhb/9780197544754.013.25'
