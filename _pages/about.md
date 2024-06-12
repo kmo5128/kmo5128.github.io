@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Neuroscience Ph.D. student in the Laboratory on Social and Affective Neuroscience at Georgetown University working with [Dr. Abigail Marsh](https://aamarsh.wordpress.com). I earned a B.S. in Biology from The Pennsylvania State University and completed post-baccalaureate research training at the National Institute of Mental Health in the [Section on Neurobiology of Fear and Anxiety](https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/snfa/index.shtml).
+Welcome! I am a social scientist with [The Lab @ DC](https://thelab.dc.gov) using evidence-based research to develop and evaluate government programs and policies. I currently work on topics related to public health, housing, and use of emergency services. 
 
-I study the interaction between negative affect and social functioning using MRI brain imaging, psychophysiology, and behavioral modeling. I am interested in how the brain perceives and experiences emotion and aversive events ranging from monetary loss to acute pain. How can feelings of social support or loneliness alter these experiences? What are the consequences of disruption to emotion processes, for example, after a [stroke](https://cbpr.georgetown.edu/researchlabs/cognition-and-emotion/)?
+I received a Ph.D. in Neuroscience from Georgetown University where I trained in the [Laboratory on Social & Affective Neuroscience](https://aamarsh.wordpress.com/lab/). Previously, I earned a B.S. in Biology from The Pennsylvania State University and completed post-baccalaureate research training at the National Institute of Mental Health in the Section on Neurobiology of Fear and Anxiety. I have used methods such as computational modeling, brain imaging, and randomized controlled trials to answer behavioral neuroscience research questions. 
 
 When not doing research, you can probably find me at the park with my dog, [Mr. Beau](https://kmo5128.github.io/images/mrbeau.png), or searching for the perfect slice of pizza.
 
-
-* [Laboratory on Social and Affective Neuroscience](https://aamarsh.wordpress.com/lab/)
+* [The Lab @ DC](https://thelab.dc.gov)
+* [Laboratory on Social & Affective Neuroscience](https://aamarsh.wordpress.com/lab/)
 * [Cognition and Emotion after Stroke Project](https://cbpr.georgetown.edu/researchlabs/cognition-and-emotion/)
 * [Translational Biomedical Science TL1 Scholar](https://www.translationalbiomedicalscience.org/scholars)
 * F31 Research Trainee [NIH/NCCIH](https://www.nccih.nih.gov)
